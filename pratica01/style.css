@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e8f0fe;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+}
+
+.curriculo {
+    background-color: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    max-width: 400px;
+    text-align: center;
+    border: 2px solid #3b5998;
+}
+
+.header h1 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 8px;
+}
+
+.header p {
+    font-size: 16px;
+    color: #8e44ad;
+    margin-bottom: 20px;
+}
+
+.info-pessoal, .cursos {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.info-pessoal h2, .cursos h2 {
+    font-size: 22px;
+    color: #2980b9;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+.info-pessoal p, .cursos li {
+    font-size: 16px;
+    margin-bottom: 10
+}
