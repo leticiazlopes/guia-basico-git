@@ -94,7 +94,7 @@ https://github.com/ifpb/projects/tree/main/src/content/people
 
 ```
 
-## Desenvolvedores
+## ✏️ Desenvolvedores
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/148480989?v=4" width=115><br><sub>Suetone Carneiro</sub>](https://github.com/suetonecarneiro) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/129249488?v=4" width=115><br><sub>Letícia Lopes</sub>](https://github.com/leticiazlopes) 
 | :---: | :---: | 
 <!-- :---: | :---: | -->
