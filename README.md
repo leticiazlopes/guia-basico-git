@@ -1,5 +1,5 @@
 # Git e GitHub: um guia de sobrevivência básico	
-👀 Hey, aqui temos um resumo do básico para sua sobrevivência como developer!
+👀 Hey, aqui temos um resumo do básico para sua sobrevivência como developer! Esse curso foi ministrado no IFTECH2024
 
 * [🚀Comandos básicos](#-comandos-básicos)
 * [💻Links Úteis](#links-úteis)
